@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/BurntSushi/toml v0.3.1
+	github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5 // indirect
 	github.com/gin-gonic/gin v1.7.7
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gomodule/redigo v1.8.6
